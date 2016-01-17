@@ -37,3 +37,9 @@
 [submodule "seomatic"]
 	path = seomatic
 	url = git@github.com:nystudio107/seomatic.git
+[submodule "Reasons-Craft"]
+	path = Reasons-Craft
+	url = https://github.com/mmikkel/Reasons-Craft
+[submodule "ExpandedSingles"]
+	path = ExpandedSingles
+	url = git@github.com:engram-design/ExpandedSingles.git
