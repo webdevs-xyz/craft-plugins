@@ -1,3 +1,6 @@
 [submodule "forms"]
 	path = forms
 	url = git@github.com:am-impact/amforms.git
+[submodule "amnav"]
+	path = amnav
+	url = git@github.com:am-impact/amnav.git
