@@ -7,3 +7,6 @@
 [submodule "blueprint"]
 	path = blueprint
 	url = git@github.com:bjerenec/craftcms-blueprint.git
+[submodule "craft-dbug"]
+	path = craft-dbug
+	url = https://github.com/lukeholder/craft-dbug
