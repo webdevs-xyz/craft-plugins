@@ -28,3 +28,6 @@
 [submodule "LinkIt"]
 	path = LinkIt
 	url = git@github.com:fruitstudios/LinkIt.git
+[submodule "Pimp-My-Matrix"]
+	path = Pimp-My-Matrix
+	url = git@github.com:supercool/Pimp-My-Matrix.git
