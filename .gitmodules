@@ -13,3 +13,6 @@
 [submodule "FeedMe"]
 	path = FeedMe
 	url = git@github.com:engram-design/FeedMe.git
+[submodule "FieldManager"]
+	path = FieldManager
+	url = git@github.com:engram-design/FieldManager.git
