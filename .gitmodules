@@ -4,3 +4,6 @@
 [submodule "amnav"]
 	path = amnav
 	url = git@github.com:am-impact/amnav.git
+[submodule "blueprint"]
+	path = blueprint
+	url = git@github.com:bjerenec/craftcms-blueprint.git
