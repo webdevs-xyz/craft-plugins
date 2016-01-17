@@ -22,3 +22,9 @@
 [submodule "SuperTable"]
 	path = SuperTable
 	url = git@github.com:engram-design/SuperTable.git
+[submodule "Imager-Craft"]
+	path = Imager-Craft
+	url = git@github.com:aelvan/Imager-Craft.git
+[submodule "LinkIt"]
+	path = LinkIt
+	url = git@github.com:fruitstudios/LinkIt.git
