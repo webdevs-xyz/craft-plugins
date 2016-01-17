@@ -34,3 +34,6 @@
 [submodule "Placid"]
 	path = Placid
 	url = git@github.com:alecritson/Placid.git
+[submodule "seomatic"]
+	path = seomatic
+	url = git@github.com:nystudio107/seomatic.git
