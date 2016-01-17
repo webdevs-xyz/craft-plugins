@@ -19,3 +19,6 @@
 [submodule "ImageResizer"]
 	path = ImageResizer
 	url = git@github.com:engram-design/ImageResizer.git
+[submodule "SuperTable"]
+	path = SuperTable
+	url = git@github.com:engram-design/SuperTable.git
