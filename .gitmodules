@@ -31,3 +31,6 @@
 [submodule "Pimp-My-Matrix"]
 	path = Pimp-My-Matrix
 	url = git@github.com:supercool/Pimp-My-Matrix.git
+[submodule "Placid"]
+	path = Placid
+	url = git@github.com:alecritson/Placid.git
