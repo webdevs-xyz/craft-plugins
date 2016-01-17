@@ -10,3 +10,6 @@
 [submodule "craft-dbug"]
 	path = craft-dbug
 	url = https://github.com/lukeholder/craft-dbug
+[submodule "FeedMe"]
+	path = FeedMe
+	url = git@github.com:engram-design/FeedMe.git
