@@ -16,3 +16,6 @@
 [submodule "FieldManager"]
 	path = FieldManager
 	url = git@github.com:engram-design/FieldManager.git
+[submodule "ImageResizer"]
+	path = ImageResizer
+	url = git@github.com:engram-design/ImageResizer.git
