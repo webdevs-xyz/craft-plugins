@@ -49,3 +49,6 @@
 [submodule "CpFieldLinks-Craft"]
 	path = CpFieldLinks-Craft
 	url = git@github.com:mmikkel/CpFieldLinks-Craft.git
+[submodule "SimpleSitemap"]
+	path = SimpleSitemap
+	url = git@github.com:xodigital/SimpleSitemap.git
