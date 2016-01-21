@@ -1,4 +1,4 @@
-[submodule "forms"]
+[submodule "amforms"]
 	path = forms
 	url = git@github.com:am-impact/amforms.git
 [submodule "amnav"]
@@ -43,3 +43,6 @@
 [submodule "ExpandedSingles"]
 	path = ExpandedSingles
 	url = git@github.com:engram-design/ExpandedSingles.git
+[submodule "craft-quick-field"]
+	path = craft-quick-field
+	url = git@github.com:benjamminf/craft-quick-field.git
