@@ -46,3 +46,6 @@
 [submodule "craft-quick-field"]
 	path = craft-quick-field
 	url = git@github.com:benjamminf/craft-quick-field.git
+[submodule "CpFieldLinks-Craft"]
+	path = CpFieldLinks-Craft
+	url = git@github.com:mmikkel/CpFieldLinks-Craft.git
