@@ -49,3 +49,6 @@
 [submodule "SimpleSitemap"]
 	path = SimpleSitemap
 	url = git@github.com:xodigital/SimpleSitemap.git
+[submodule "amform"]
+	path = amform
+	url = git@github.com:am-impact/amforms.git
