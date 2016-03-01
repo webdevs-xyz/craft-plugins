@@ -52,3 +52,6 @@
 [submodule "amform"]
 	path = amform
 	url = git@github.com:am-impact/amforms.git
+[submodule "craft_kint"]
+	path = craft_kint
+	url = https://github.com/mildlygeeky/craft_kint.git
