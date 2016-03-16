@@ -55,3 +55,15 @@
 [submodule "craft_kint"]
 	path = craft_kint
 	url = https://github.com/mildlygeeky/craft_kint.git
+[submodule "FocalPointField-Craft"]
+	path = FocalPointField-Craft
+	url = https://github.com/aelvan/FocalPointField-Craft.git
+[submodule "Preparse-Field-Craft"]
+	path = Preparse-Field-Craft
+	url = https://github.com/aelvan/Preparse-Field-Craft.git
+[submodule "Guano-Craft"]
+	path = Guano-Craft
+	url = https://github.com/aelvan/Guano-Craft.git
+[submodule "Stringy-Craft"]
+	path = Stringy-Craft
+	url = https://github.com/mmikkel/Stringy-Craft.git
