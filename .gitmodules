@@ -67,3 +67,27 @@
 [submodule "Stringy-Craft"]
 	path = Stringy-Craft
 	url = https://github.com/mmikkel/Stringy-Craft.git
+[submodule "minify"]
+	path = minify
+	url = https://github.com/nystudio107/minify.git
+[submodule "CacheFlag-Craft"]
+	path = CacheFlag-Craft
+	url = https://github.com/mmikkel/CacheFlag-Craft.git
+[submodule "craft-neo"]
+	path = craft-neo
+	url = https://github.com/benjamminf/craft-neo.git
+[submodule "craft-embedded-assets"]
+	path = craft-embedded-assets
+	url = https://github.com/benjamminf/craft-embedded-assets.git
+[submodule "craft-matrix-group"]
+	path = craft-matrix-group
+	url = https://github.com/benjamminf/craft-matrix-group.git
+[submodule "craft-relabel"]
+	path = craft-relabel
+	url = https://github.com/benjamminf/craft-relabel.git
+[submodule "craft-matrixcolors"]
+	path = craft-matrixcolors
+	url = https://github.com/lindseydiloreto/craft-matrixcolors.git
+[submodule "cropassets"]
+	path = cropassets
+	url = https://github.com/boboldehampsink/cropassets.git
