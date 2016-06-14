@@ -91,3 +91,24 @@
 [submodule "cropassets"]
 	path = cropassets
 	url = https://github.com/boboldehampsink/cropassets.git
+[submodule "craft-maintenance"]
+	path = craft-maintenance
+	url = https://github.com/carlcs/craft-maintenance.git
+[submodule "auditlog"]
+	path = auditlog
+	url = https://github.com/boboldehampsink/auditlog.git
+[submodule "craft-helpers"]
+	path = craft-helpers
+	url = git@github.com:carlcs/craft-helpers.git
+[submodule "navee"]
+	path = navee
+	url = git@github.com:fromtheoutfit/navee.git
+[submodule "Craft-FocusPoint"]
+	path = Craft-FocusPoint
+	url = git@github.com:smcyr/Craft-FocusPoint.git
+[submodule "craft-inventory"]
+	path = craft-inventory
+	url = git@github.com:lindseydiloreto/craft-inventory.git
+[submodule "import"]
+	path = import
+	url = git@github.com:boboldehampsink/import.git
