@@ -112,3 +112,48 @@
 [submodule "import"]
 	path = import
 	url = git@github.com:boboldehampsink/import.git
+[submodule "craft-lj-dynamicfields"]
+	path = craft-lj-dynamicfields
+	url = https://github.com/lewisjenkins/craft-lj-dynamicfields.git
+[submodule "craft-elementoptions"]
+	path = craft-elementoptions
+	url = https://github.com/timkelty/craft-elementoptions.git
+[submodule "Craft-TwigTypeTest"]
+	path = Craft-TwigTypeTest
+	url = https://github.com/victor-in/Craft-TwigTypeTest.git
+[submodule "craft-assetmetadata"]
+	path = craft-assetmetadata
+	url = https://github.com/carlcs/craft-assetmetadata.git
+[submodule "craft-localesync"]
+	path = craft-localesync
+	url = https://github.com/timkelty/craft-localesync.git
+[submodule "craft-cpcss"]
+	path = craft-cpcss
+	url = https://github.com/lindseydiloreto/craft-cpcss.git
+[submodule "retour"]
+	path = retour
+	url = https://github.com/nystudio107/retour.git
+[submodule "Button-Box"]
+	path = Button-Box
+	url = https://github.com/lindseydiloreto/Button-Box.git
+[submodule "ElementAPI"]
+	path = ElementAPI
+	url = git@github.com:pixelandtonic/ElementAPI.git
+[submodule "craft-languagelink"]
+	path = craft-languagelink
+	url = git@github.com:lindseydiloreto/craft-languagelink.git
+[submodule "craftcms-thearchitect"]
+	path = craftcms-thearchitect
+	url = git@github.com:Pennebaker/craftcms-thearchitect.git
+[submodule "craft-recurring-dates"]
+	path = craft-recurring-dates
+	url = git@github.com:nxnw/craft-recurring-dates.git
+[submodule "craftcms-multidatefield"]
+	path = craftcms-multidatefield
+	url = git@github.com:bjerenec/craftcms-multidatefield.git
+[submodule "ArtVandelay"]
+	path = ArtVandelay
+	url = git@github.com:xodigital/ArtVandelay.git
+[submodule "export"]
+	path = export
+	url = git@github.com:boboldehampsink/export.git
