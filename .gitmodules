@@ -157,3 +157,6 @@
 [submodule "export"]
 	path = export
 	url = git@github.com:boboldehampsink/export.git
+[submodule "donkeytail-plugin"]
+	path = donkeytail-plugin
+	url = git@github.com:simplygoodwork/donkeytail-plugin.git
