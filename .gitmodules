@@ -160,3 +160,6 @@
 [submodule "donkeytail-plugin"]
 	path = donkeytail-plugin
 	url = git@github.com:simplygoodwork/donkeytail-plugin.git
+[submodule "reverserelations"]
+	path = reverserelations
+	url = git@github.com:boboldehampsink/reverserelations.git
